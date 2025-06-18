@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "f33d",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-20T15:28:07.875Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.98672215736636",
+        "lng": "-0.01939773559570313"
+      }
+    },
+    {
+      "id": "8bf0",
+      "cityName": "Dhaka",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-04-20T15:29:18.864Z",
+      "notes": "dasd",
+      "position": {
+        "lat": "23.765393994901498",
+        "lng": "90.38864135742189"
+      }
+    },
+    {
+      "id": "d1b4",
+      "cityName": "Dhaka",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-04-20T15:29:26.042Z",
+      "notes": "adas",
+      "position": {
+        "lat": "23.785658967461774",
+        "lng": "90.42829513549806"
+      }
+    }
+  ]
+}
